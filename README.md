@@ -11,7 +11,9 @@ Our dataset consists of 3 folders namely cheerful, melancholy, lighthearted cons
 
 **sklearn** : for classification models(training and testing).
 
-**matplotlib** : for visualization purpose.
+**matplotlib** : for visualization purpose.  
+
+**Tkinter** : for User Interface.
 
 Four classifiers have been used in this project namely Randomforest, DecisionTree, SVM, and naive bayes.
 
