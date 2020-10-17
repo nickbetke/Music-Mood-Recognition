@@ -1,9 +1,10 @@
 # Music-Mood-Recognition
-mood identification system which recognizes the mood of a bollywood song using machine learning models
-the dataset of songs annotated with moods waas not available online so we created one. consisting about 400 songs.
-our dataset consists of 4 folders namely cheerful, melancholy, lighthearted consisting of songs of these 3 moods.
+Mood identification system which recognizes the mood of a bollywood song using multiple machine learning models.
+The dataset of songs annotated with moods was not available online so we created one, consisting about 400 songs.
+Our dataset consists of 3 folders namely cheerful, melancholy, lighthearted consisting of songs of these 3 moods.
 
-### We have used:  
+*Entire project has been written using python3.*  
+### We have mainly used:  
 **librosa** : library for feature extraction purpose.
 
 **pydub** : for audio segmentation and wav format conversion.
