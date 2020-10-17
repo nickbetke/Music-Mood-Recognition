@@ -4,14 +4,14 @@ the dataset of songs annotated with moods waas not available online so we create
 our dataset consists of 4 folders namely cheerful, melancholy, lighthearted consisting of songs of these 3 moods.
 
 We have used:
-librosa : library for feature extraction purpose.
+**librosa** : library for feature extraction purpose.
 
-pydub : for audio segmentation and wav format conversion.
+**pydub** : for audio segmentation and wav format conversion.
 
-sklearn : for classification models(training and testing).
+**sklearn** : for classification models(training and testing).
 
-matplotlib: for visualization purpose.
+**matplotlib** : for visualization purpose.
 
-Four classifiers have been used in this project namely Randomforest, Decisiontree, SVM, and naive bayes.
+Four classifiers have been used in this project namely Randomforest, DecisionTree, SVM, and naive bayes.
 
-after training on our curated datasets we have reached upto 65 % accuracy on individual models. which on combining the results would be altogether increased. 
+After training on our curated datasets we have reached upto 65 % accuracy on individual models. which on combining the results would be altogether increased. 
